@@ -1,0 +1,23 @@
+name: LinkedIn
+favicon: null
+layout_spectrum: 0.6528651267290115
+typography_spectrum: 0.14030089601874352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9915180527605116
+  lightness: 0.42662276537157595
+  saturation: 0.5472883163020015
+  rhythmicContrast: 0.28788178390823305
+purpose: []
